@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    }
+  ],
+  "notes": [
+    {
+      "content": "Make a web application in reactjs",
+      "date": "2020-06-09T17:25:52.654Z",
+      "important": false,
+      "id": 1
+    },
+    {
+      "content": "make a personal portfolio",
+      "date": "2020-06-09T17:26:24.363Z",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "Do stuff",
+      "date": "2020-06-09T19:03:19.971Z",
+      "important": false,
+      "id": 3
+    }
+  ]
+}

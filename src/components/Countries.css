@@ -1,0 +1,7 @@
+.country-info {
+    display: none;
+}
+
+.active {
+    display: block;
+}
